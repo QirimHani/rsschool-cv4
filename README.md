@@ -1,2 +1,2 @@
 
-[CV](https://skillbox.ru/media/)
+[CV](https://github.com/QirimHani/rsschool-cv/)
